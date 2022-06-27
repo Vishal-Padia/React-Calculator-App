@@ -7,7 +7,6 @@ To run this app
 <code>npm start</code>
 
 <p>This is how is the app looks like:</p>
-<img src='image.png'>
 <video autoplay> 
 <source src='Calculator - Google Chrome 2022-06-27 13-33-22.mp4' type="video/mp4">
 </video>
