@@ -6,8 +6,9 @@ To run this app
 <code>npm start</code>
 
 <p>This is how is the app looks like:</p>
-Image:
-https://user-images.githubusercontent.com/66507933/175893005-de38ad0f-1f1e-406f-9f82-48ee21c3a67f.png
+Image: <br>
+![project-image](https://user-images.githubusercontent.com/66507933/175893244-a96a9c60-47ef-4c70-a60d-0c96e97513a8.png)
+
 
 
 video:
