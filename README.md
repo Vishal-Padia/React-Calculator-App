@@ -7,7 +7,7 @@ To run this app
 
 <p>This is how is the app looks like:</p>
 Image:
-![project-image](https://user-images.githubusercontent.com/66507933/175893005-de38ad0f-1f1e-406f-9f82-48ee21c3a67f.png)
+https://user-images.githubusercontent.com/66507933/175893005-de38ad0f-1f1e-406f-9f82-48ee21c3a67f.png
 
 
 video:
